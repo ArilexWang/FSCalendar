@@ -370,3 +370,4 @@ Yes. Like UITableView or UICollectionView, there is also `reloadData` in `FSCale
 ```objc
 [self.calendar reloadData];
 ```
+### Q:&nbsp;&nbsp;How can we set some cells disseletable?
